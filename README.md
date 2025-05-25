@@ -1,6 +1,8 @@
 # PROJET_802
 Projet de vision par ordinateur (reconnaissance d'une droite, à l'aide de la transformée de Hough)
 
+🎓 Projet réalisé dans le cadre du Master MMAA et du CMI en Mathématiques Appliquées – Université Savoie Mont Blanc
+
 # Partie 1 : Pour la transformée de Hough en espace paramétrique (mp)
 
 ## 2 Méthodes membres :
